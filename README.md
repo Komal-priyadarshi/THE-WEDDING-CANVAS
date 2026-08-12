@@ -13,6 +13,6 @@ Packages — three tiers (Intimate, Grand, Palace) with a featured highlight
 Features — six brand promises with icons
 Testimonials — three couple reviews
 Contact — a full enquiry form with name, email, phone, date, guest count, destination, and message
-Footer — your details prominently displayed: Komal Priyadarshi, mobile +91 92963 27465, and email komalpriyadarshi36@gmail.com, with social links and a copyright notice
+Footer — your details prominently displayed: Komal Priyadarshi, mobile no., and mail, with social links and a copyright notice
 Ran build to verify no errors
 Build passes cleanly — no errors or warnings. The CSS import order fix resolved the previous warning, and everything compiles successfully.
